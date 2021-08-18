@@ -20,8 +20,8 @@ export default function Contact(props)
             <p>contact@xavieresnault.dev</p>
             <div className="contact-social">
                 <a href="https://www.linkedin.com/in/xavier-esnault/" target="_blank" rel="noopener noreferrer"><img src={linkedinImage} title="Linkedin" alt="linkedin"/></a>
-                <a href="https://github.com/xavieresnault" target="_blank" rel="noopener noreferrer"><img src={githubImage} title="Github" alt="github"/></a>
-                <a href="https://twitter.com/xavieresnault" target="_blank" rel="noopener noreferrer"><img src={twitterImage} title="Twitter" alt="twitter"/></a>
+                <a href="https://github.com/vyndev" target="_blank" rel="noopener noreferrer"><img src={githubImage} title="Github" alt="github"/></a>
+                <a href="https://twitter.com/_Vyn__" target="_blank" rel="noopener noreferrer"><img src={twitterImage} title="Twitter" alt="twitter"/></a>
             </div>
             <style jsx>{`
                 #contact
