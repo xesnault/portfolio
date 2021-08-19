@@ -17,10 +17,10 @@ export default function Contact(props)
     return (
         <div id="contact">
             <h2>{text.contact.headline}</h2>
-            <p>contact@xavieresnault.dev</p>
+            <p>contact@xesnault.dev</p>
             <div className="contact-social">
                 <a href="https://www.linkedin.com/in/xavier-esnault/" target="_blank" rel="noopener noreferrer"><img src={linkedinImage} title="Linkedin" alt="linkedin"/></a>
-                <a href="https://github.com/vyndev" target="_blank" rel="noopener noreferrer"><img src={githubImage} title="Github" alt="github"/></a>
+                <a href="https://github.com/xesnault" target="_blank" rel="noopener noreferrer"><img src={githubImage} title="Github" alt="github"/></a>
                 <a href="https://twitter.com/_Vyn__" target="_blank" rel="noopener noreferrer"><img src={twitterImage} title="Twitter" alt="twitter"/></a>
             </div>
             <style jsx>{`
